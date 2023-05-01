@@ -1,0 +1,7 @@
+Name                      Rollno       CGPA 
+Aftab Hussain             22CS60R54    8.80
+Aftab Siddiqui            22CS60R54    8.80
+Mohd Farhan               22CS60R43    9.02
+Riya                      22CS60R22    8.32
+Sagiruddin Akthar         22CS60R56    9.50
+Vani Gupta                22CS60R55    9.80

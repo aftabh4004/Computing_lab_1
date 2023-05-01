@@ -1,0 +1,2 @@
+Ra              0
+Highest number of disjoint groups possible is 0
